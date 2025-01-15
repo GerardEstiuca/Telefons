@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Screensaver>
+    <Images>
+        <Image>https://raw.githubusercontent.com/GerardEstiuca/Telefons/refs/heads/main/ScreensaverImages/screensaver.png</Image>
+        <Image>https://raw.githubusercontent.com/GerardEstiuca/Telefons/refs/heads/main/ScreensaverImages/screensaver_2.png</Image>
+    </Images>
+    <Settings>
+        <Interval>30</Interval> <!-- Interval en segons -->
+        <Transition>fade</Transition> <!-- Tipus de transició -->
+    </Settings>
+</Screensaver>
