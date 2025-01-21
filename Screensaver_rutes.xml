@@ -1,4 +1,4 @@
 <screensaver>
-        <Image path="https://raw.githubusercontent.com/GerardEstiuca/Telefons/refs/heads/main/ScreensaverImages/screensaver_1.jpg"/>
-        <Image path="https://raw.githubusercontent.com/GerardEstiuca/Telefons/refs/heads/main/ScreensaverImages/screensaver_3.jpg"/>
-</screensaver>
+        <image path="http://raw.githubusercontent.com/GerardEstiuca/Telefons/refs/heads/main/ScreensaverImages/picture1.jpg"/>
+        <image path="http://raw.githubusercontent.com/GerardEstiuca/Telefons/refs/heads/main/ScreensaverImages/picture2.jpg"/>
+</ screensaver>
